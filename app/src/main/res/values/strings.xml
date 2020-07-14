@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="hello_guys">Towns!</string>
+    <string-array name="towns">
+        <item>Вена</item>
+        <item>Цюрих</item>
+        <item>Ванкувер</item>
+        <item>Мюнхен</item>
+        <item>Окленд</item>
+        <item>Дюссельдор</item>
+        <item>Франкфурт-на-Майне</item>
+        <item>Копенгаген</item>
+        <item>Женева</item>
+        <item>Базель</item>
+    </string-array>
+
+</resources>
